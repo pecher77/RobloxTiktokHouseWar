@@ -1,0 +1,17 @@
+# Сборки Rojo
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Пакеты Wally (если появятся)
+/Packages
+/ServerPackages
+/DevPackages
+
+# Мусор ОС / редакторов
+.DS_Store
+Thumbs.db
+.vscode/
